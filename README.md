@@ -4,16 +4,6 @@
 
 
 
-# Video
-https://youtu.be/vhnFcb4cf7I
-
-
-# HOMEPAGE
-<img src='/images/NikeSite.png'/>
-
-
-### :link:link : https://nike-shoe-store.netlify.app/
-
 
 ## Features
 
